@@ -4,6 +4,10 @@
 
 记录自己每天英语学习的记录
 
+## 语法
+
+- ["Do" questions & Negatives - DO, DOES, DON'T, DOESN'T](./grammar/do-questions-negative-do-does-dont-doesnt.md)
+
 ## 杂记
 
 - [How to remember vocabulary](./posts/how-to-remember-vocabulary.md)
@@ -13,3 +17,4 @@
 ## 日记
 
 - [2023-03-05](./diary/2023-03-05.md)
+- [2023-03-06](./diary/2023-03-06.md)
