@@ -8,16 +8,16 @@
 
 ### The 2 Things that Really Don't Matter. 两个误区
 
-- Do you need talent to learn a language? 学语言需要天赋？
-- Learning a language requires an environment? 学语言需要环境？
+- Do you need the talent to learn a language? 学语言需要天赋？
+- Learning a language doesn't requires an environment. 学语言需要环境？
 
 ### 五个原则
 
 - Focus on language content that is relevant to you. 关注与你息息相关的那部分内容。
 - Use your new Language as a Tool to communicate. 要把语言直接拿来交流，不要哑巴式的学习。
-- When you first understand the message you will unconsciously acquire. 当你了解讯息以后，你就会无形中学会这个语言。
+- When you first understand the message you will unconsciously acquire it. 当你了解讯息以后，你就会无形中学会这个语言。
 - Physiological Training. 要多做训练，学习别人说话，发出让别人听得懂的声音。
-- Psysiological state matters. 要保持一颗热爱的心态去学习，你需要容忍可能会出现部分听不懂的内容。
+- Physiological state matters. 要保持一颗热爱的心态去学习，你需要容忍可能会出现部分听不懂的内容。
 
 ### 七个行为
 
@@ -28,7 +28,7 @@
 - Get a language parent. 找到一位良师益友。
   - works to understand what you are saying. 他们能理解你表达的意思。
   - does not correct mistakes. 他们不会强制去纠正你的错误。
-  - confirms understanding by using correct language. 他们会通过理解你的表达，并给你正确的回馈。
+  - confirms understanding by using the correct language. 他们会通过理解你的表达，并给你正确的回馈。
   - uses words the learner knows. 他们会使用你明白的单词来回答你。
 - Copy the face. 要学会模仿对方的脸部，来正确发出读音。
-- Direct connect to mental images. 不要死记硬背，而是要利用想象力联系生活去记忆。
+- Direct connection to mental images. 不要死记硬背，而是要利用想象力联系生活去记忆。

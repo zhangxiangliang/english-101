@@ -10,4 +10,4 @@
 - Poster / Sticky notes 便利贴记忆
 - Draw pictures 画图记忆
 - make a sentence 造句记忆
-- Your language can help help 谐音记忆
+- Your language can help 谐音记忆

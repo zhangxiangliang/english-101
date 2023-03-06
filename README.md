@@ -6,8 +6,9 @@
 
 ## 杂记
 
-- [How to remember vocabulary - 如何记住单词](./posts/how-to-remember-vocabulary.md)
-- [How to learn any language in six months - 如何用六个月学习一门语言](./posts/how-to-learn-any-language-in-six-months.md)
+- [How to remember vocabulary](./posts/how-to-remember-vocabulary.md)
+- [How to learn any language in six months](./posts/how-to-learn-any-language-in-six-months.md)
+- [The first 20 hours -- how to learn anything](./posts/the-first-20-hours-how-to-learn-anything.md)
 
 ## 日记
 
